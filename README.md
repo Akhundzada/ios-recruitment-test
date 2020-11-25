@@ -28,3 +28,6 @@ DATE = `YYYY-MM-DD`
 https://valyuta.com/api/get_currency_rate_for_app/{CURRENCY}/{DATE}
 
 Please send the link to repository and wait for the feedback
+
+![image](https://user-images.githubusercontent.com/3234413/100227336-70158800-2f3a-11eb-9678-5ba4f8c39926.png)
+
